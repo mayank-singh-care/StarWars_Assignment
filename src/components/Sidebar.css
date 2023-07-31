@@ -1,10 +1,6 @@
 .box{
-    border: 1px solid red;
     padding: 20px;
     background-color: #03123D;
-}
-.detail{
-    border: 1px solid red;
 }
 
 .key{
