@@ -1,0 +1,22 @@
+.deleteModal{
+    /* width: 400px;
+    height: 248px; */
+    border-radius:  12px ;
+    padding: 24px;
+    gap: 32px;
+}
+.cancel{
+background-color: white;
+border: 1px solid gray;
+}
+
+.accept{
+    background-color: #fc5a5a;
+    border: none;
+    color: white;
+}
+.cancel, .accept{
+    border-radius: 8px; 
+    width: 170px;
+    cursor: pointer;
+}

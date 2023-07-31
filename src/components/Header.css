@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    /* border: 1px solid red; */
+    height: 50px;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    Width: 216px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 4px 8px 4px 8px;
+    gap: 8px;
+    border: 1px solid white;
+}
+
+.searchBar{
+    background-color: inherit;
+    border: none;
+    color: white;
+}
+.searchBar:focus{
+    outline: none;
+}

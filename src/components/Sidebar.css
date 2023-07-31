@@ -1,0 +1,26 @@
+.box{
+    border: 1px solid red;
+    padding: 20px;
+    background-color: #03123D;
+}
+.detail{
+    border: 1px solid red;
+}
+
+.key{
+    color: white;
+    text-transform: capitalize;
+}
+.value{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.close{
+    padding: 10px;
+    width: 100%;
+    background-color: #cb1a80;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}

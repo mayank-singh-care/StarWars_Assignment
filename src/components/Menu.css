@@ -1,0 +1,27 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.category{
+    border: none;
+    background-color: #03123D;
+    color: white;
+    height: 50px;
+    width: 20vw;
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.category:hover{
+    background-color: #cb1a80;
+}
+
+@media only screen and (max-width: 500px) {
+    .icons {
+        display: none;
+    }
+}
